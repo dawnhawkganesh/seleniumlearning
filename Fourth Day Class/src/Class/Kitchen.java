@@ -15,7 +15,7 @@ public class Kitchen {
 		int c=a+b;
 		
 		System.out.println(c);
-	
+		System.out.println("ganesh bharathi"); 
 		ganesh();
 		
 	
